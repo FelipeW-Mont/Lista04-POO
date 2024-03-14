@@ -1,0 +1,14 @@
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.exe
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.deps.json
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.runtimeconfig.json
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.dll
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\bin\Debug\net8.0\Exercicio4.pdb
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfoInputs.cache
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfo.cs
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.csproj.CoreCompileInputs.cache
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.dll
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\refint\Exercicio4.dll
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.pdb
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\Exercicio4.genruntimeconfig.cache
+E:\C-Sharp\Lista04\Exercicio4\Exercicio4\obj\Debug\net8.0\ref\Exercicio4.dll

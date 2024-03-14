@@ -1,0 +1,14 @@
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+E:\C-Sharp\Lista04\Exercicio2\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll
